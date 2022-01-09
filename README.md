@@ -1,2 +1,3 @@
 # shuttlebot_maps
-Maps for Shuttlebot
+
+It is undesirable to store maps with main shuttlebot repo because RTAB-map makes changes to it after every run.
